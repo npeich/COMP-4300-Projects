@@ -1,0 +1,49 @@
+*** RESULTS ***
+
+PLEASE ENTER A WORD: racecar
+
+"racecar" is a palindrome
+
+TOTAL INSTRUCTIONS = 68
+TOTAL CYCLES = 363
+SPEEDUP = 1.49862
+
+---------------------------------
+
+PLEASE ENTER A WORD: computer
+
+"computer" is NOT a palindrome
+
+TOTAL INSTRUCTIONS = 41
+TOTAL CYCLES = 216
+SPEEDUP = 1.51852
+
+---------------------------------
+
+PLEASE ENTER A WORD: kayak
+
+"kayak" is a palindrome
+
+TOTAL INSTRUCTIONS = 53
+TOTAL CYCLES = 283
+SPEEDUP = 1.49823
+
+---------------------------------
+
+PLEASE ENTER A WORD: hahahahahahah
+
+"hahahahahahah" is a palindrome
+
+TOTAL INSTRUCTIONS = 113
+TOTAL CYCLES = 603
+SPEEDUP = 1.49917
+
+---------------------------------
+
+PLEASE ENTER A WORD: natalie
+
+"natalie" is NOT a palindrome
+
+TOTAL INSTRUCTIONS = 37
+TOTAL CYCLES = 195
+SPEEDUP = 1.51795
